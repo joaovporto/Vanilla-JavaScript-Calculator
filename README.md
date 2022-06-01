@@ -1,6 +1,7 @@
 # <div align="center"> Vanilla JavaScript Calculator</div>
 
-                        
+<img src="./main.png" />
+                             </a>
 <p align="center">
 Pure vanilla JavaScript calculator using modern ES6 syntax and classes</p>
 
